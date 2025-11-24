@@ -1,6 +1,7 @@
 # Memomuse
 
 This is Memouse:Journal+Scrapbooking App made by my team and I: Jenza Jose,Gowri Nandana and Kezia Verghese.
+The Flutter application was coded in Dart programming language.
 
 This was vibe coded using Gemini AI and ChatGPT.
 First the base code of this project was made. We referred to GeeksForGeeks to make the base code of the project: 
