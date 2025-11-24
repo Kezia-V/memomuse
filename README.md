@@ -8,3 +8,5 @@ First the base code of this project was made. We referred to GeeksForGeeks to ma
 https://www.geeksforgeeks.org/flutter/creating-a-simple-application-in-flutter/
 
 Then with the help of Gemini and ChatGPT we modified the base code according to our plan for the app.
+The hyperlinks of the stickers and images used are from Flaticon and Unsplash.
+The hyperlinks of the stickers and images are in the code
